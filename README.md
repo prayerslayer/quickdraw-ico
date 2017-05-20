@@ -2,6 +2,8 @@
 
 SVG icons generated from the [quickdraw dataset](https://github.com/googlecreativelab/quickdraw-dataset).
 
+![Preview](screen.png)
+
 ## I just want to see the icons
 
 1. Clone repository

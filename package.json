@@ -15,7 +15,7 @@
     "preview": "http-server svg",
     "example": "http-server example"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": ["quick", "draw"],
+  "author": "Nikolaus Piccolotto <hello@npiccolotto.com>",
+  "license": "MIT"
 }
