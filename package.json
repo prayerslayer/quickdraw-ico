@@ -1,0 +1,21 @@
+{
+  "name": "quickdraw-icons",
+  "version": "1.0.0",
+  "description": "Generate SVG icons from Quick! Draw data",
+  "main": "index.js",
+  "dependencies": {
+    "d3-shape": "^1.2.0"
+  },
+  "devDependencies": {
+    "cli": "^1.0.1",
+    "http-server": "^0.10.0"
+  },
+  "scripts": {
+    "build": "./bin/generate.js -i ../drawings -o ../svg",
+    "preview": "http-server svg",
+    "example": "http-server example"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
